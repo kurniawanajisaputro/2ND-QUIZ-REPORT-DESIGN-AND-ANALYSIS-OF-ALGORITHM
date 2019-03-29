@@ -9,7 +9,8 @@ In here We’re using Python Version 3.
 
 
 ![image](https://user-images.githubusercontent.com/45796261/55246324-92dc2e80-5277-11e9-9fa5-4ddd31b47a03.png)
-![image](https://user-images.githubusercontent.com/45796261/55246341-9c659680-5277-11e9-8eed-c1a4676a7b68.png)\n
-Output
+![image](https://user-images.githubusercontent.com/45796261/55246341-9c659680-5277-11e9-8eed-c1a4676a7b68.png)
+
+Output:
 ![image](https://user-images.githubusercontent.com/45796261/55246364-a7b8c200-5277-11e9-8047-96c8ef291171.png)
 
